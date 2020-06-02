@@ -4,5 +4,6 @@
 @import "jekyll-theme-cayman-blog";
 
 body section.page-header {
-    background-image: linear-gradient(120deg, #991515, #159957);
+    background-image: #014980 url(banner.png) no-repeat center / cover;
+    background-position: center top;
 }
