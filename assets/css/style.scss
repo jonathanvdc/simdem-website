@@ -3,9 +3,12 @@
 
 @import "jekyll-theme-cayman-blog";
 
-body section.page-header {
+.page-banner {
     background-image: url(https://jonathanvdc.github.io/simdem-website/assets/images/banner.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center top;
+    display: block;
+    height: 128px;
+    width: 100%;
 }
