@@ -4,6 +4,8 @@
 @import "jekyll-theme-cayman-blog";
 
 body section.page-header {
-    background-image: #014980 url(https://jonathanvdc.github.io/simdem-website/assets/images/banner.png) no-repeat center / cover;
+    background-image: url(https://jonathanvdc.github.io/simdem-website/assets/images/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
     background-position: center top;
 }
