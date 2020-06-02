@@ -13,6 +13,10 @@
     width: 100%;
 }
 
-section.page-header * {
-    display: inline;
+section.page-header {
+    padding: 0.2rem 5rem;
 }
+
+// section.page-header > * {
+//     display: inline;
+// }
