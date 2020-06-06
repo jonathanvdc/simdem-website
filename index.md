@@ -1,5 +1,3 @@
-Welcome to SimDemocracy, where citizens can participate in a simulated democracy, passing laws to change its nature.
-
 ## Who Are We?
 
 SimDemocracy is an online simulation of a democracy. We began as a Reddit Community aimed at electing our community moderators. We have since evolved into an online society that includes democratically held elections, a judiciary, an economy and much more.
