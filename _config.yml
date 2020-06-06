@@ -4,10 +4,10 @@ remote_theme: lorepirri/cayman-blog
 
 # Social media.
 reddit:
-  - page: r/SimDemocracy
-  - page_kind: Subreddit
-  - owner_name: SimDemocracy
+  page: r/SimDemocracy
+  page_kind: Subreddit
+  owner_name: SimDemocracy
 
 twitter:
-  - username: r_SimDemocracy
-  - owner_name: SimDemocracy
+  username: r_SimDemocracy
+  owner_name: SimDemocracy
