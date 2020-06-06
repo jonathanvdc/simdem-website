@@ -1,3 +1,13 @@
 title: SimDemocracy
 description: Welcome to SimDemocracy, where citizens can participate in a simulated democracy, passing laws to change its nature.
 remote_theme: lorepirri/cayman-blog
+
+# Social media.
+reddit:
+  - page: r/SimDemocracy
+  - page_kind: Subreddit
+  - owner_name: SimDemocracy
+
+twitter:
+  - username: r_SimDemocracy
+  - owner_name: SimDemocracy
